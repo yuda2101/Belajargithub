@@ -1,0 +1,2 @@
+git config --global user.email "andikadirmayuda21@mhs.mdp.ac.id"
+git config --global user.name "andikadiramyuda"
